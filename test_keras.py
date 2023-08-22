@@ -1,5 +1,5 @@
 import keras_ocr
-
+import pandas as pd
 
 img_path1 = "./data/act_time_country.png"
 
